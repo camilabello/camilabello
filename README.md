@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @camilabello
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React, TypeScript, HTML and CSS
+- 📫 How to reach me camilascbello@gmail.com
